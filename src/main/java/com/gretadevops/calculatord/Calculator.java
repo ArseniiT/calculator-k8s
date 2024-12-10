@@ -1,5 +1,4 @@
-package com.gratedevops.calculatord;
-
+package com.gretadevops.calculatord;
 import org.springframework.stereotype.Service;
 
 @Service
