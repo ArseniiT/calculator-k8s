@@ -31,3 +31,20 @@ build/
 
 ### VS Code ###
 .vscode/
+
+target/
+.mvn/
+*.log
+
+=
+CACHED
+[internal]
+exporting
+lkjflskdjf
+naming
+transferring
+writing
+
+mvnw
+mvnw.cmd
+
